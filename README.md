@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**b1sted/b1sted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a future software engineer.
 
-Here are some ideas to get you started:
+- Learning C and Python language
+- Focused on Accessibility
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+
+*   [My Personal Website](https://www.basted.ru)
+*   [Site with C Notes](https://www.docs.basted.ru)
+
+Check out my repositories below 👇
