@@ -7,7 +7,7 @@ I'm a future software engineer.
 
 ## Links
 
-*   [My Personal Website](https://www.basted.ru)
-*   [Site with C Notes](https://www.docs.basted.ru)
+*   [My Personal Website](https://basted.ru)
+*   [Site with C Notes](https://docs.basted.ru)
 
 Check out my repositories below 👇
