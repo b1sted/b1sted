@@ -1,13 +1,13 @@
-# Hello 👋
+<h3 align="center">Nikita Mandrykin</h3>
 
-I'm a future software engineer.
+<p align="center">Software Engineering Student, aspiring QA Engineer</p>
 
-- Learning C and Python language
-- Focused on Accessibility
+<hr>
 
-## Links
+<p align="center">Currently coding in Java and picking up test automation. Cut my teeth on C and Assembly.</p>
 
-*   [My Personal Website](https://basted.ru)
-*   [Site with C Notes](https://docs.basted.ru)
-
-Check out my repositories below 👇
+<p align="center">
+	<a href="https://github.com/b1sted-labs">🎓 University Projects</a> ·
+	<a href="https://basted.ru">🌐 Personal Website</a> ·
+	<a href="https://docs.basted.ru">📚 Lecture Notes</a>
+</p>
